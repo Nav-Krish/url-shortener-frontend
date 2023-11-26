@@ -6,8 +6,6 @@ import Signup from "./components/Signup";
 import ForgotPassword from "./components/ForgotPassword";
 import ShortURL from "./components/ShortURL";
 
-// This the Main App Component
-
 function App() {
   return (
     <div className="App">
